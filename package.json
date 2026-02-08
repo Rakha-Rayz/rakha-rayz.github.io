@@ -1,0 +1,11 @@
+{
+  "name": "rakha-blog",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Blog", "Rakha"],
+  "author": "Rakha",
+  "license": "MIT",
+  "description": "A Rakha blog"
+}
